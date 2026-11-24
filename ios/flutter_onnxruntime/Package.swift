@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
   name: "flutter_onnxruntime",
   platforms: [
-    .iOS("15.1")
+    .iOS("15.0")
   ],
   products: [
     // The Flutter tooling requires the library product name to be the
